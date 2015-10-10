@@ -22,7 +22,11 @@ config = {
                   service: 'Mailgun',
                   auth: {
                       user: 'postmaster@mysimpleclouds.com', // mailgun username
-                      pass: '857c4dc5e527cb603d84098d1dad0f8c'  // mailgun password
+<<<<<<< HEAD
+                      pass: 'yourultralongsupersecretmailgunpasswordgoeshere'  // mailgun password
+=======
+                      pass: 'yourapikeyhere'  // mailgun password
+>>>>>>> master
                   }
               }
           },
@@ -58,7 +62,11 @@ config = {
                   service: 'Mailgun',
                   auth: {
                       user: 'postmaster@mysimpleclouds.com', // mailgun username
-                      pass: '857c4dc5e527cb603d84098d1dad0f8c'  // mailgun password
+<<<<<<< HEAD
+                      pass: 'yoursuperduperlongpasswordformailgunhere'  // mailgun password
+=======
+                      pass: 'yourapikeyhere'  // mailgun password
+>>>>>>> master
                   }
               }
           },
